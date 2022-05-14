@@ -4,7 +4,7 @@
 
 ## Front-end Link
 
-[Front-end App](https://github.com/Mosams/hello-rails-front-end.git)
+https://github.com/Mosams/hello-react-front-end.git
 
 ## Project screenshots
 
